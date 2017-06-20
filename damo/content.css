@@ -1,0 +1,144 @@
+#header{
+	width:1250px;
+	height:190px;
+	background-image:url(image/header.jpg);
+	background-repeat: no-repeat;
+	background-position:center;
+}
+.logo img{
+	margin-top:20px;
+	margin-left:20px;
+	border:lightblue 5px solid;
+}
+.banner{
+	width:1250px;
+	height:30px;
+	background-image:url(image/banner.jpg);
+	margin-top: 14px;
+}
+.nav{
+	width:1000px;
+}
+.nav ul{
+	list-style:none;
+}
+.nav ul li{
+	float:left;
+}
+.nav ul li a{
+	color:white;
+	margin-right: 50px;
+	line-height:28px;
+	font-weight: bold;
+	border-right: 1px solid #fff;
+	font-size:14px;
+	padding-right: 20px;
+	text-decoration: none;
+}
+.nav ul li a:hover{
+	text-decoration:underline;
+	color:green;
+}
+.search form input{
+	line-height:20px;
+}
+.search form input[type=text ]{
+	background-color: #f8f5ee;
+	margin-left:100px;
+}
+.search form input[type=button]{
+	background-color: #000;
+	color: #fff;
+	border: 1px solid #f8f5ee;
+}
+#content{
+	width:1250px;
+	height:800px;
+}
+.content_top{
+	width:1250px;
+	height:210px;
+}
+.content_top div{
+	float:left;
+}
+.content_top form textarea{
+	font-weight:bold;
+	margin-top:40px;
+	margin-left:120px;
+	font-size:15px;
+}
+.content_top div ul{
+	margin-top:30px;
+}
+.content_top div ul li{
+	margin-left:100px;
+}
+.content_bottom{
+	width:1250px;
+	height:900px;
+}
+.content_bottom div{
+	float:left;
+}
+.left{
+	width:750px;
+	margin-left:100px;
+}
+.left h2{
+	text-align:center;
+	margin-left:-90px;
+}
+.left span img{
+	width:730px;
+	text-align:center;
+}
+.shijian{
+	font-size:12px;
+	text-align:center;
+	color:gray;
+	margin-left:200px;
+	line-height:50px
+}
+.left p{
+	text-indent:2em;
+	width:650px;
+	margin-left:50px;
+}
+.tuanju1{
+margin-left:50px;
+}
+.right{
+	width:350px;
+}
+.div1{
+	margin-left:50px;
+	margin-top:90px;
+}
+.div1 span{
+	margin-left:70px;
+	line-height:80px;
+}
+.div2{
+	margin-left:50px;
+	margin-top:20px;
+}
+.div2 span{
+	margin-left:70px;
+	line-height:80px;
+}
+#footer{
+    width:1250px;
+}
+#footer img{
+	width:1230px;
+	height:1px;
+	text-align:center;
+	margin-top:60px;
+}
+#footer div{
+	margin-top:30px;
+	margin-left:250px;
+	margin-bottom:40px
+}
+
